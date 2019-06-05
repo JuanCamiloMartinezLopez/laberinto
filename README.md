@@ -1,9 +1,11 @@
 # LABERINTO
-<hr>
+
 Gabriel Esteban Castillo Ramírez - 20171020021
+
 Juan Camilo Martínez López - 20171020074
+
 Omar Alejandro Espitia Sánchez - 20171020094
-<hr>
+
 mediante la creacion de un arbol n-ario de los posibles posiciones dentro de un laberinto, se determina si tiene o no solucion este.
 
 ## Arbol n-ário
@@ -24,7 +26,7 @@ mediante recursividad se parte de la posicion de "x" para recorrer los posibles 
 
 ![funciones de insercion](https://github.com/JuanCamiloMartinezLopez/laberinto/blob/master/images/insertNodo.jpg)
 
-<hr>
+
 #prueba
 
  el programa puede recibir cualquier laberinto de mxn conformado por 0 y 1, donde el cero es camino y el uno un muro, asi tambien se denota "x" el inicio y "y"  el final o meta
